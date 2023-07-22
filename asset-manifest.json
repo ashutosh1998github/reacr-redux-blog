@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacr-redux-blog/static/css/main.1cf03476.css",
+    "main.js": "/reacr-redux-blog/static/js/main.c07b076a.js",
+    "index.html": "/reacr-redux-blog/index.html",
+    "main.1cf03476.css.map": "/reacr-redux-blog/static/css/main.1cf03476.css.map",
+    "main.c07b076a.js.map": "/reacr-redux-blog/static/js/main.c07b076a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf03476.css",
+    "static/js/main.c07b076a.js"
+  ]
+}
