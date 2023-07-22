@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "1234",
+      "active": true,
+      "admin": false,
+      "id": 1
+    }
+  ],
+  "blogs": [
+    {
+      "heroImage": "https://wallpapercave.com/wp/wp5924564.jpg",
+      "title": "Anime",
+      "content": "<p>Hello</p>",
+      "publish": false,
+      "authorId": 1,
+      "id": 1
+    }
+  ]
+}
